@@ -60,9 +60,9 @@ _tasks_.
 
 These items are similar in content, but they are used for two different
 purposes. _Decisions_ are used to make a declaration or assert something that
-*is already done*. This can include formally approving a plan (such as a
+__is already done__. This can include formally approving a plan (such as a
 logistics plan) or forming a new committee. _Tasks_ are used to to declare or
-assert work that needs *to be done*. These includes things like writing a plan
+assert work that needs __to be done__. These includes things like writing a plan
 (such as a logistics plan) or building a web property or application.
 
 Both of these types of items should include at a minimum the who, what, where,
