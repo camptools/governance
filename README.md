@@ -77,5 +77,81 @@ merged into a living document. A tool should be created to pull this written
 component out of the document and properly merge it into place in the living
 document.
 
+###The importance of the 6 elements
+Answering who, what, where, when, why, and how for every decision and tasks has
+several benefits. Tasks that answer these 6 elements are more easily
+transferable between members of the volunteer teams. They also benefit from a
+great development process. Having to understand the task at hand from several
+angles flushes out more details of a task as well, which can greatly help cut
+down on the redundant and repetitive work.
 
+Answering the six elements is even more necessary for decisions as it provides
+for not only a detailed item to be added to a plan but it also helps inform the
+intent of the decision. Intent should not be included in actual plans as it
+can make things unclear. Intent is important though, especially after several
+months: being able to look back at a decision that was made and easy bring the
+context to the forefront removes redundant efforts and more importantly
+redundant conversations.
 
+##Redundancy
+Being a volunteer based organization having redundancy is of high importance.
+Every major role played in the organization should have a redundant counter
+part. This requires additional volunteers, but also focuses the necessary roles
+down to a smaller number. Having redundant roles becomes problematic quickly
+if every role requires redundancy and inefficiencies are more easily
+identifiable.
+
+Redundancy can also help emphasize the need for tasks that can be easily traded
+off between members of the volunteer teams. The more descriptive and focused the
+tasks to be executed are, the easier it is for team members to trade them off
+with one another.
+
+##Team Size
+The organization will not function well as a single monolithic entity. While
+many camps and conferences can function in this manner, their scope is severely
+limited. Since it is apparent that scope limitation is not practically within
+the grasp of this organization a different approach should be taken. Instead of
+operating a single monolith, the core team of organizers should be chiefly
+responsible for managing the tasks to be done, but not executing the tasks
+themselves. Tasks should be farmed out to small core teams that exist related
+to, but outside of, the direct NYC Camp organizers.
+
+##Structure
+There are two different levels of organizing that are required to organize a
+large conference of conferences. The top level are the __organizers__. While
+they can participate in actually doing work, their job is chiefly to manage
+work.
+
+This is mainly done by being the final approval for high level tasks and
+decisions. They are directly in control of any official plan and maintain the
+master plan, called the "conference code". This document should largely work as
+a reference manual that can be used year over year, that is, it a specific
+conference agnostic document. This document is mainly formed from the high level
+decisions approved by the organizers. The tasks for a specific year are
+organized into the "conference plan", which expires every year after the
+conference. This document is formed from the high level tasks approved by the
+organizers.
+
+Both of the conference code and conference plan should be fairly coarse grained
+and allow for smaller more specific plans and codes to be created and
+authorized.
+
+The second level are the __vounteers__. This level performs much of the work in
+bring the conference together. This level is broken out into committees. Each
+committee should be focused on a specific set of well defined task areas. A
+large amount of effort should be placed into ensuring that there is not much
+overlap between committees. This ensures that there is not ambiguity between the
+authority of committees. Ambiguity can lead to discussion and decisions that
+should take place in the volunteer level to take place in the organizer level.
+This means more energy is required from the organizers which breaks down the
+barriers between managing and work.
+
+Each of the committees in the volunteer level should have a committee code and
+committee plan, which are handled mostly by the committee themselves. Tasks and
+decisions within the respective codes and plans must have an authorized decision
+or task in the conference code and plan that they relate to. When ambiguity or
+disagreement arises on a decision or tasks' relation to an authoritative
+decision or task, the organizers are responsible for clarifying if said decision
+or task is in within the purview of the authoritative decision or task. This
+decision should be a yes or no and should not change the authoritative decision
+or task. That should be brought up and addressed at a later time.
