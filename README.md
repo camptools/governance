@@ -155,3 +155,81 @@ decision or task, the organizers are responsible for clarifying if said decision
 or task is in within the purview of the authoritative decision or task. This
 decision should be a yes or no and should not change the authoritative decision
 or task. That should be brought up and addressed at a later time.
+
+##Officers
+The organizers are made up of the chairman, secretary, treasurer, and the chairs
+of the various committees in the volunteer level. In addition to these various
+representatives of the community may also be an organizer, however the number of
+these organizers should be kept to a minimum. When possible, it is favorable to
+have representatives from the community participate in the various committees in
+the volunteer level as they perform a majority of the work for the conference.
+The organizers should be kept as small as possible without sacrificing
+redundancy and without placing too much responsibility on any single individual.
+
+Each of the committees in the volunteer level should consist of at least a
+chair and a co-chair. Aside from that each various committees should choose its
+officers and positions for itself. These position must be documented in the
+committees code and changes to the number and title of officers must be approved
+by the organizers.
+
+##Documentation over Technology, manual over automated
+Currently the conference has little documentation, and the documentation that
+does exist contradicts itself in many places. This documentation needs to be
+codified and condensed into a few areas. This should be done prior to making
+technology decisions. That is, it is more important to have a simpler
+technology system and through documentation than automated systems with poor
+documentation.
+
+There should also be an emphasis on well defined manual processes over weakly
+defined automated processes. For instance, if given the choice between a well
+documented workflow for scheduling and displaying schedules, but it is manual
+using spreadsheets, and a undocumented workflow for scheduling and display
+schedules which is automated, the former should be chosen.
+
+##Decision and Task tracking
+Decisions and tasks should be tracked in git as it allows for keeping of
+history, easy distribution, easy review, and has more advanced tooling for the
+type of workflow needed for these items. Google Docs could work as an
+alternative but they suffer from being highly centralized and require
+permissions. Even when they are open, a link is still necessary. Using git in
+combination with Github, Bitbucket, or a similar system will enable a more open
+expression of decision and task tracking. The organizers and each committee
+should have their own repos. Both the code and the plan should be kept in the
+repository along with all of the approved and failed tasks and decisions.
+
+Keeping this historical information is important for review and onboarding new
+members. A pull request method may be used for proposing tasks and decisions.
+Failed tasks and decisions should either be kept as branches or placed in a
+special directory of failed tasks and decisions with proper diffs. The second
+method is more maintainable and less verbose, due to the fewer number of
+branches. It also allows tools to be run which can parse information more easily
+since branch switching will not be necessary.
+
+A special document format should be designed that can handle not only the six
+elements plus a code-version summary, but also a diff and additional information
+such as approved or failed, sign-offs, and potentially a voting record.
+
+##Delegation of work
+Work should be delegated away from the organizers to the committee teams. This
+ensures that there is always work to be done and will help to drive strong
+teams. This also allows the organizers to focus on the overall conference and
+not focus on the small details. This separation is of great importance and
+should not be infringed.
+
+The organizing team is responsible for ensuring the tasks of each committee are
+related to the generalized tasks laid out by the organizers plan. The tasks must
+also abide by the rules laid out in the organizers code.
+
+Members of the organizers may participate in the volunteer level committees, but
+their priority should be executing work for the organizers. This excludes the
+members of the organizers who chair the committees. Their responsibility is to
+ensure their team is running smoothly first and foremost. For this reason, there
+should be several members of the organizers who do not chair committees.
+
+Certain areas are under the purview of the organizers as passing the
+responsibility onto any singular committee would be difficult, such as branding.
+A branding subcommittee should exist inside the organizers, since branding
+touches almost every part of the conference. Branding is also a high level
+matter, as it has a direct influence on the conference's public perception.
+Other areas, such as drayage, communication, logistics, and web property
+development should remain separate committees.
